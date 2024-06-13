@@ -22,12 +22,12 @@ const perguntas = [
         enunciado: "voce fez faculdade?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "sim",
+                afirmacao: "Que bom."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Não",
+                afirmacao: "Que pena."
             }
         ]
     },
