@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sim",
-                afirmacao: "Que bom. "
+                afirmacao: "Que bom que voce terminou o ensino medio"
             },
             {
                 texto: "Não",
-                afirmacao: "Que pena."
+                afirmacao: "Que pena q voce nao terminou."
             }
         ]
     },
