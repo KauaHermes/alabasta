@@ -9,8 +9,8 @@ const perguntas = [
         enunciado: "voce estuda?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Sim",
+                afirmacao: "Não"
             },
             {
                 texto: "Isso é maravilhoso!",
