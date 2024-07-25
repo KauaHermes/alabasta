@@ -6,28 +6,28 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "voce estuda?",
+        enunciado: "Voce trabalha?",
         alternativas: [
             {
                 texto: "Sim",
-                afirmacao: "Que bom que voce terminou o ensino medio"
+                afirmacao: "otimo."
             },
             {
                 texto: "Não",
-                afirmacao: "Que pena q voce nao terminou."
+                afirmacao: "Que pena"
             }
         ]
     },
     {
-        enunciado: "voce fez faculdade?",
+        enunciado: "Voce consegue passa o mes com o seu salario?",
         alternativas: [
             {
                 texto: "sim",
-                afirmacao: "Que bom."
+                afirmacao: "continui assim."
             },
             {
                 texto: "Não",
-                afirmacao: "Que pena."
+                afirmacao: "voce tem que parar com os gastos desnecessário."
             }
         ]
     },
